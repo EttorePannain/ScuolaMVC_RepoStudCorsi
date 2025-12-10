@@ -1,5 +1,5 @@
 
-using ScuolaMVC.Models;
+using ScuolaMVC_RepoStudCorsi.Models;
 
 public class StudenteController
 {

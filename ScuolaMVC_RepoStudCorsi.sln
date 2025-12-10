@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36717.8
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScuolaMVC_Repo", "ScuolaMVC_Repo.csproj", "{BD6D2429-CF31-4007-9CD5-B0791AC6D642}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScuolaMVC_RepoStudCorsi", "ScuolaMVC_RepoStudCorsi.csproj", "{BD6D2429-CF31-4007-9CD5-B0791AC6D642}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,8 +1,8 @@
 
 using System;
-using ScuolaMVC.Controllers;
-using ScuolaMVC.Data;
-using ScuolaMVC.Models;
+//using ScuolaMVC_RepoStudCorsi.Controllers;
+using ScuolaMVC_RepoStudCorsi.Data;
+using ScuolaMVC_RepoStudCorsi.Models;
 
 public class StudenteView
 {

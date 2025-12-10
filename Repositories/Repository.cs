@@ -1,6 +1,6 @@
 
 using Microsoft.EntityFrameworkCore;
-using ScuolaMVC.Data;
+using ScuolaMVC_RepoStudCorsi.Data;
 
 public class Repository<T> : IRepository<T> where T : class
 {
