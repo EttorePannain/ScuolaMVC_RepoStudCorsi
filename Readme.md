@@ -34,8 +34,11 @@ Update-Database
 # Cosa faremo invece: 
 ** PASSAGGIO AD ALTRO PROGETTO CON REPOSITORY (codice pulito)
 
-# Step 1 
-Passaggio da ScuolaMVC a ScuolaMVCRepo
+Console.WriteLine("MENU PRINCIPALE");
+Console.WriteLine("1. Gestione Studenti");
+Console.WriteLine("2. Gestione Corsi");
+Console.WriteLine("0. Esci");
+Console.Write("Scelta: ");
 
 # Step 2
 Modificare Modello Studente (aggiungere campi)
